@@ -1,0 +1,203 @@
+{
+    "mapList": {
+        "album": [
+            {
+                "albumImg": "../static/music/album/我要的幸福/album1.jpg",
+                "albumTitle": "我要的幸福",
+                "albumSinger": "孙燕姿",
+                "albumbg": "../static/music/album/我要的幸福/albumbg1.jpg",
+                "playerbg": "../static/music/album/我要的幸福/playerbg.jpg",
+                "albumList": [
+                    {
+                        "musicName": "我要我的幸福",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/01 我要的幸福.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/01 我要的幸福.lrc"
+                    },
+                    {
+                        "musicName": "坏天气",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/02 坏天气.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/02 坏天气.lrc"
+                    },
+                    {
+                        "musicName": "零缺点",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/03 零缺点.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/03 零缺点.lrc"
+                    },
+                    {
+                        "musicName": "开始懂了",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/04 开始懂了.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/04 开始懂了.lrc"
+                    },
+                    {
+                        "musicName": "中间地带",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/05 中间地带.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/05 中间地带.lrc"
+                    },{
+                        "musicName": "相信",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/06 相信.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/06 相信.lrc"
+                    },
+                    {
+                        "musicName": "累赘",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/07 累赘.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/07 累赘.lrc"
+                    },
+                    {
+                        "musicName": "难得一见",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/08 难得一见.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/08 难得一见.lrc"
+                    },
+                    {
+                        "musicName": "害怕",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/09 害怕.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/09 害怕.lrc"
+                    },
+                    {
+                        "musicName": "星期一天气晴我离开你",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/10 星期一天气晴我离开你.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/10 星期一天气晴我离开你.lrc"
+                    }
+                ]
+            },
+            {
+                "albumImg": "../static/music/album/我要的幸福2/一个方向.jpg",
+                "albumTitle": "一个方向",
+                "albumSinger": "西城男孩",
+                "albumbg": "../static/music/album/我要的幸福2/albumbg1.jpg",
+                "playerbg": "../static/music/album/我要的幸福/playerbg.jpg",
+                "albumList": [
+                    {
+                        "musicName": "我要我的幸福",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/01 我要的幸福.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/01 我要的幸福.lrc"
+                    },
+                    {
+                        "musicName": "坏天气",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/02 坏天气.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/02 坏天气.lrc"
+                    }
+                ]
+            },
+            {
+                "albumImg": "../static/music/album/album3/album3.jpg",
+                "albumTitle": "BEYONCE",
+                "albumSinger": "BEYONCE",
+                "albumbg": "../static/music/album/album3/albumbg1.jpg",
+                "playerbg": "../static/music/album/我要的幸福/playerbg.jpg",
+                "albumList": [
+                    {
+                        "musicName": "我要我的幸福",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/01 我要的幸福.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/01 我要的幸福.lrc"
+                    },
+                    {
+                        "musicName": "坏天气",
+                        "musicSinger": "孙燕姿",
+                        "musicUrl": "../static/music/album/我要的幸福/02 坏天气.mp3",
+                        "musicLyric": "../static/music/album/我要的幸福/02 坏天气.lrc"
+                    }
+                ]
+            }
+        ],
+        "recommend": [
+            {
+                "singerImg": "../static/music/recommend/袁娅维.jpg",
+                "playerbg": "../static/music/recommend/袁娅维bg.jpg",
+                "musicName": "说散就散",
+                "musicSinger": "袁维娅",
+                "musicUrl": "../static/music/recommend/袁维娅-说散就散.mp3",
+                "musicLyric": "../static/music/recommend/袁娅维-说散就散.lrc"
+            },{
+                "singerImg": "../static/music/recommend/薛明媛.jpg",
+                "playerbg": "../static/music/recommend/薛明媛bg.jpg",
+                "musicName": "非酋",
+                "musicSinger": "薛明媛、朱贺",
+                "musicUrl": "../static/music/recommend/薛明媛、朱贺 - 非酋.mp3",
+                "musicLyric": "../static/music/recommend/薛明媛、朱贺 - 非酋.lrc"
+            },{
+                "singerImg": "../static/music/recommend/麦小兜.jpg",
+                "playerbg": "../static/music/recommend/麦小兜bg.jpg",
+                "musicName": "9420",
+                "musicSinger": "麦小兜",
+                "musicUrl": "../static/music/recommend/麦小兜 - 9420.mp3",
+                "musicLyric": "../static/music/recommend/麦小兜 - 9420.lrc"
+            },{
+                "singerImg": "../static/music/recommend/于文文.jpg",
+                "playerbg": "../static/music/recommend/于文文bg.jpg",
+                "musicName": "体面",
+                "musicSinger": "于文文",
+                "musicUrl": "../static/music/recommend/体面-于文文.mp3",
+                "musicLyric": "../static/music/recommend/体面-于文文.lrc"
+            },{
+                "singerImg": "../static/music/recommend/she.jpg",
+                "playerbg": "../static/music/recommend/SHEbg.jpg",
+                "musicName": "你曾是少年",
+                "musicSinger": "SHE",
+                "musicUrl": "../static/music/recommend/SHE - 你曾是少年.mp3",
+                "musicLyric": "../static/music/recommend/SHE - 你曾是少年.lrc"
+            },{
+                "singerImg": "../static/music/recommend/13947771055674.jpg",
+                "playerbg": "../static/music/recommend/24048_n.jpg",
+                "musicName": "无情的雨无情的你",
+                "musicSinger": "齐秦",
+                "musicUrl": "../static/music/recommend/无情的雨无情的你 - 齐秦.mp3",
+                "musicLyric": "../static/music/recommend/无情的雨无情的你 - 齐秦.lrc"
+            },{
+                "singerImg": "../static/music/recommend/王童语.jpg",
+                "playerbg": "../static/music/recommend/王童语bg.jpg",
+                "musicName": "丫头",
+                "musicSinger": "王童语",
+                "musicUrl": "../static/music/recommend/王童语 - 丫头.mp3",
+                "musicLyric": "../static/music/recommend/王童语 - 丫头.lrc"
+            },{
+                "singerImg": "../static/music/recommend/神马乐团.jpg",
+                "playerbg": "../static/music/recommend/神马乐团bg.jpg",
+                "musicName": "爱河",
+                "musicSinger": "神马乐团",
+                "musicUrl": "../static/music/recommend/爱河 - 神马乐团.mp3",
+                "musicLyric": "../static/music/recommend/爱河 - 神马乐团.lrc"
+            },{
+                "singerImg": "../static/music/recommend/赵雷.jpg",
+                "playerbg": "../static/music/recommend/赵雷bg.jpg",
+                "musicName": "成都",
+                "musicSinger": "赵雷",
+                "musicUrl": "../static/music/recommend/赵雷 - 成都.mp3",
+                "musicLyric": "../static/music/recommend/赵雷 - 成都.lrc"
+            },{
+                "singerImg": "../static/music/recommend/金志文.jpg",
+                "playerbg": "../static/music/recommend/金志文bg.jpg",
+                "musicName": "远走高飞",
+                "musicSinger": "金志文、徐佳莹",
+                "musicUrl": "../static/music/recommend/金志文、徐佳莹 - 远走高飞.mp3",
+                "musicLyric": "../static/music/recommend/金志文、徐佳莹 - 远走高飞.lrc"
+            },{
+                "singerImg": "../static/music/recommend/陈雅森.jpg",
+                "playerbg": "../static/music/recommend/陈雅森bg.jpg",
+                "musicName": "温柔乡",
+                "musicSinger": "陈雅森",
+                "musicUrl": "../static/music/recommend/陈雅森 - 温柔乡.mp3",
+                "musicLyric": "../static/music/recommend/陈雅森 - 温柔乡.lrc"
+            },{
+                "singerImg": "../static/music/recommend/齐一.jpg",
+                "playerbg": "../static/music/recommend/齐一bg.jpg",
+                "musicName": "这个年纪",
+                "musicSinger": "齐一",
+                "musicUrl": "../static/music/recommend/齐一 - 这个年纪.mp3",
+                "musicLyric": "../static/music/recommend/齐一 - 这个年纪.lrc"
+            }
+        ]
+    }
+}
