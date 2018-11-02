@@ -1,6 +1,4 @@
 # music163-project
-## 项目介绍
-###### 本项目是学习vue的实践项目，仿制网易云音乐。作为VUE知识学习的巩固
 ## 技术栈
 ###### vue + vuex + vue-router + vue-axios + vue-awesome-swiper
 ## 功能实现
@@ -22,9 +20,6 @@
 - [X] 发现页面：半成品，完成静态页面
 - [X] 电台页面：半成品，完成静态页面
 
-###### 更新计划
-1. 利用开放的网易云接口，将本地数据请求更改为nodejs环境服务器端请求。
-1. 利用localStorge，实现用户登录和喜欢歌曲收藏功能
 ###### 页面截图
 ![功能截图](./static/img/music163.png)
 
@@ -73,4 +68,3 @@ npm install
 npm run dev
 在浏览器访问127.0.0.1:8080
 ```
-###### 运行前提：客户端需要安装有nodejs npm webpack
