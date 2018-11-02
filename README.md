@@ -1,4 +1,4 @@
-# music163-project
+# musicPlay-project
 ## 技术栈
 ###### vue + vuex + vue-router + vue-axios + vue-awesome-swiper
 ## 功能实现
